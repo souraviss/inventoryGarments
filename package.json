@@ -1,0 +1,22 @@
+{
+  "name": "inventory_garments",
+  "version": "1.0.0",
+  "description": "inventory project on garments and jute material",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souraviss/inventoryGarments.git"
+  },
+  "keywords": [
+    "gitforinventory"
+  ],
+  "author": "Sourav Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souraviss/inventoryGarments/issues"
+  },
+  "homepage": "https://github.com/souraviss/inventoryGarments#readme"
+}
